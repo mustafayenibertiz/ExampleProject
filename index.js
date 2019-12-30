@@ -1,1 +1,2 @@
-var deneme
+var deneme 
+echo 
